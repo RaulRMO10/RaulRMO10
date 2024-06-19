@@ -16,5 +16,3 @@ Analista de Dados apaixonado por números, estatística e dados.
 
 - Email: raulmartinsagrivet1@gmail.com
 - LinkedIn: https://www.linkedin.com/in/raulrmo/
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaulRMO10&show_icons=true)
